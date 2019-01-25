@@ -10,7 +10,7 @@
 }
 
 
-#wall .slick {
+#wall #tag-2 + .slick {
   display: none;
 }
 
