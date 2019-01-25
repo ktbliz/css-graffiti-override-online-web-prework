@@ -25,7 +25,7 @@
   display: none;
 }
 
-#wall .parent + .parent div #tag-6 {
+#wall .parent + .parent + .parent div #tag-6 {
   display: none;
 }
 
