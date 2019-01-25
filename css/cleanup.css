@@ -25,7 +25,7 @@
   display: none;
 }
 
-#wall .parent + .parent #tag-5 {
+#wall .parent + .parent div  {
   display: none;
 }
 
