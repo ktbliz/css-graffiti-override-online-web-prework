@@ -21,7 +21,7 @@
 
 
 
-#wall .parent + .parent #tag-5 {
+#wall #tag-3 + .parent + .parent #tag-5 {
   display: none;
 }
 
