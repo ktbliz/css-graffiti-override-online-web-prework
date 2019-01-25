@@ -30,7 +30,7 @@
 }
 
 
-#wall > .parent > div > #tag-7 {
+#wall > .parent + .parent + .parent + .parent > div > #tag-7 {
   display: none;
 }
 
